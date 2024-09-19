@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-ilk pushum
-
-=======
-
-githubta değişiklik
->>>>>>> f02a6cb11fea91680b3b9f63087be79d29b6db00
+1- klonlanan repoda değişiklik
+2- githubta değişiklik
+3- hepsini düzeittim ulenn
