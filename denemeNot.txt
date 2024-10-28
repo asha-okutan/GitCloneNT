@@ -1,1 +1,2 @@
-git clone komutu githube ta var olan repoyu locale indirmek için kullanılır
+1-git clone komutu githube ta var olan repoyu locale indirmek için kullanılır
+2-bi tane daha push yapalım
